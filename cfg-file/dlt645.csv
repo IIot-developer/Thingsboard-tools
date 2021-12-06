@@ -1,0 +1,17 @@
+Dlt645 Type,Proto,Slave IP,Slave Port,Gateway ID,RTU PARA,Device ID,Device Name,Meter Addr,Scan Time,Function Code,DataPoint ID,DataPoint Name
+dlt server,DLT645_2007,,,TB_GW1,,meter_1,数字电表1,00-00-00-00-00-01,1000,DIC_0,meter1_power,电表1-总电能
+,,,,,,,,,,DIC_2010100,meter1_VA,电表1-A相电压
+,,,,,,,,,,DIC_2010200,meter1_VB,电表1-B相电压
+,,,,,,,,,,DIC_2010300,meter1_VC,电表1-C相电压
+dlt server,DLT645_2007,,,TB_GW2,,meter_2,数字电表2,00-00-00-00-00-02,2000,DIC_0,meter2_power,电表2-总电能
+,,,,,,,,,,DIC_2010100,meter2_VA,电表2-A相电压
+,,,,,,,,,,DIC_2010200,meter2_VB,电表2-B相电压
+,,,,,,,,,,DIC_2010300,meter2_VC,电表2-C相电压
+dlt rtu,DLT645_2007,,,,COM4:9600:8:1:N,meter_3,数字电表3,00-00-00-00-00-03,3000,DIC_0,meter3_power,电表3-总电能
+,,,,,,,,,,DIC_2010100,meter3_VA,电表3-A相电压
+,,,,,,,,,,DIC_2010200,meter3_VB,电表3-B相电压
+,,,,,,,,,,DIC_2010300,meter3_VC,电表3-C相电压
+dlt client,DLT645_2007,127.0.0.1,8888,,,meter_4,数字电表4,00-00-00-00-00-04,4000,DIC_0,meter4_power,电表4-总电能
+,,,,,,,,,,DIC_2010100,meter4_VA,电表4-A相电压
+,,,,,,,,,,DIC_2010200,meter4_VB,电表4-B相电压
+,,,,,,,,,,DIC_2010300,meter4_VC,电表4-C相电压

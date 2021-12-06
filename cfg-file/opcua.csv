@@ -1,0 +1,6 @@
+UA server URL,UA Server ID,UA Server Name,Group ID,Group Name,Node ID,DataPoint ID,DataPoint Name,Data Type,Linear k,Linear b
+opc.tcp://127.0.0.1:4841/,ua server 1,OPC UA测试服务器,Group_1,OPC UA数据测试组1,"6,DataItem_0000",DataItem_0000,数据0,double,1,0
+opc.tcp://127.0.0.1:4841/,ua server 1,OPC UA测试服务器,Group_1,OPC UA数据测试组1,"6,DataItem_0001",DataItem_0001,数据1,double,1,0
+opc.tcp://127.0.0.1:4841/,ua server 1,OPC UA测试服务器,Group_1,OPC UA数据测试组1,"6,DataItem_0002",DataItem_0002,数据2,double,1,0
+opc.tcp://127.0.0.1:4841/,ua server 1,OPC UA测试服务器,Group_1,OPC UA数据测试组1,"6,DataItem_0003",DataItem_0003,数据3,double,1,0
+opc.tcp://127.0.0.1:4841/,ua server 1,OPC UA测试服务器,Group_1,OPC UA数据测试组1,"6,DataItem_0004",DataItem_0004,数据4,double,1,0

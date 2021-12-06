@@ -1,0 +1,1 @@
+1、先安装vspdpro_setup.exe，再把vspdproCHS.EXE拷贝到目录下

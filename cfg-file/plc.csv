@@ -1,0 +1,11 @@
+PLC Brand,PLC Proto,PLC Type,PLC IP,PLC Port,Rack,Slot,RTU PARA,PLC ID,PLC Name,Scan Time,Data Addr,Reg Type,Db number,Reg Addr,Data Type,Bit Addr,DataPoint ID,DataPoint Name,Linear k,Linear b
+Siemens,S7,S7_200,192.168.3.41,102,0,2,,plc_1,测试PLC机1,1000,DB1:W0,DB,1,0,uint16,0,dp_1,数据点1值,/,/
+,,,,/,/,/,/,/,/,/,DB1:W8,DB,1,8,int16,0,dp_2,数据点2值,/,/
+,,,,/,/,/,/,/,/,/,DB1:DW8,DB,1,8,int32,0,dp_3,数据点3值,/,/
+,,,,/,/,/,/,/,/,/,DB1:DW0,DB,1,0,uint32,0,dp_4,数据点4值,/,/
+,,,,/,/,/,/,/,/,/,DB1:R4,DB,1,4,float,0,dp_5,数据点5值,1,0
+,,,,/,/,/,/,/,/,/,DB1:B1.4,DB,1,12,bool,0,dp_6,数据点6值,/,/
+,,,,/,/,/,/,/,/,/,DB1:B1.5,DB,1,13,bool,0,dp_7,数据点7值,/,/
+Siemens,S7,S7_200,192.168.3.41,102,0,1,,plc_2,测试PLC机2,1000,DB1:B56,DB,1,56,uint8,0,dp_8,数据点8值,/,/
+,,,,/,/,/,/,/,/,/,DB1:B57,DB,1,57,uint8,0,dp_9,数据点9值,/,/
+,,,,/,/,/,/,/,/,/,DB1:B58,DB,1,58,uint8,0,dp_10,数据点10值,/,/

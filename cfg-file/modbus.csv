@@ -1,0 +1,11 @@
+Modbus Type,Slave IP,Slave Port,Gateway ID,RTU PARA,Device ID,Device Name,Scan Time,Modbus Addr,Function Code,Start Reg,Reg Num,Reg Offset,Data Type,Bit Addr,DataPoint ID,DataPoint Name,Linear k,Linear b
+modbus rtu,/,/,/,COM1:9600:8:1:N,ModRtuMeter1,Rtu数字仪表1,1000,1,3,0,2,0,int16_ab,/,Rtu1_c,RTU仪表1电流,/,/
+,,,,,,,,,,,,1,int16_ab,/,Rtu1_v,RTU仪表1电压,/,/
+modbus rtu,/,/,/,COM3:115200:8:1:E,ModRtuMeter2,Rtu数字仪表2,1000,3,3,0,4,0,float_abcd,/,Rtu2_c,RTU仪表2电流,/,/
+,,,,,,,,,,,,2,float_abcd,/,Rtu2_v,RTU仪表2电压,/,/
+modbus tcp,127.0.0.1,501,/,/,ModTcpMeter1,Tcp数字仪表1,1000,5,3,0,4,0,int32_abcd,/,TCP1_c,TCP仪表1电流,/,/
+,,,,,,,,,,,,2,int32_abcd,/,TCP1_v,TCP仪表1电压,/,/
+modbus tcp,127.0.0.1,502,/,/,ModTcpMeter2,Tcp数字仪表2,1000,6,3,0,4,0,float_cdab,/,TCP2_c,TCP仪表2电流,/,/
+,,,,,,,,,,,,2,float_cdab,/,TCP2_v,TCP仪表2电压,/,/
+modbus tcp,127.0.0.1,503,/,/,ModTcpMeter3,Tcp数字仪表3,1000,30,3,0,8,0,float_abcd,/,TCP3_c,TCP仪表3电流,/,/
+,,,,,,,,,,,,2,float_abcd,/,TCP3_v,TCP仪表3电压,/,/

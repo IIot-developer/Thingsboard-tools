@@ -1,0 +1,112 @@
+{
+	"forging_workshop":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"Random.Int2":	1776,
+				"Random.Int4":	2461,
+				"Random.Real4":	17032.099609375,
+				"Random.Real8":	9745.05
+			}
+		}],
+	"ModTcpMeter3":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"TCP3_v":	"Bad",
+				"TCP3_c":	"Bad"
+			}
+		}],
+	"ModTcpMeter2":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"TCP2_v":	"Bad",
+				"TCP2_c":	"Bad"
+			}
+		}],
+	"ModTcpMeter1":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"TCP1_v":	-4569870,
+				"TCP1_c":	34567
+			}
+		}],
+	"ModRtuMeter2":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"Rtu2_v":	8888.77734375,
+				"Rtu2_c":	123.45600128173828
+			}
+		}],
+	"ModRtuMeter1":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"Rtu1_v":	12345,
+				"Rtu1_c":	-456
+			}
+		}],
+	"meter_3":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"meter3_VC":	"Bad",
+				"meter3_VB":	"Bad",
+				"meter3_VA":	"Bad",
+				"meter3_power":	"Bad"
+			}
+		}],
+	"meter_2":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"meter2_VC":	"Bad",
+				"meter2_VB":	"Bad",
+				"meter2_VA":	"Bad",
+				"meter2_power":	"Bad"
+			}
+		}],
+	"meter_1":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"meter1_VC":	"Bad",
+				"meter1_VB":	"Bad",
+				"meter1_VA":	"Bad",
+				"meter1_power":	"Bad"
+			}
+		}],
+	"meter_4":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"meter4_VC":	"Bad",
+				"meter4_VB":	"Bad",
+				"meter4_VA":	"Bad",
+				"meter4_power":	"Bad"
+			}
+		}],
+	"Group_1":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"DataItem_0004":	"Bad",
+				"DataItem_0003":	"Bad",
+				"DataItem_0002":	"Bad",
+				"DataItem_0001":	"Bad",
+				"DataItem_0000":	"Bad"
+			}
+		}],
+	"plc_2":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"dp_10":	"Bad",
+				"dp_9":	"Bad",
+				"dp_8":	"Bad"
+			}
+		}],
+	"plc_1":	[{
+			"ts":	1638714662508,
+			"values":	{
+				"dp_7":	"Bad",
+				"dp_6":	"Bad",
+				"dp_5":	"Bad",
+				"dp_4":	"Bad",
+				"dp_3":	"Bad",
+				"dp_2":	"Bad",
+				"dp_1":	"Bad"
+			}
+		}]
+}
