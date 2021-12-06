@@ -1,13 +1,5 @@
 {
-	"forging_workshop":	[{
-			"ts":	1638714662508,
-			"values":	{
-				"Random.Int2":	1776,
-				"Random.Int4":	2461,
-				"Random.Real4":	17032.099609375,
-				"Random.Real8":	9745.05
-			}
-		}],
+	
 	"ModTcpMeter3":	[{
 			"ts":	1638714662508,
 			"values":	{
